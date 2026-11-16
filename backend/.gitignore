@@ -33,7 +33,7 @@ wheels/
 db.sqlite3
 db.upload
 /static/
-/media/
+media/
 /staticfiles/
 
 # --- Docker ---
