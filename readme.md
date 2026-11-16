@@ -184,7 +184,7 @@ backend/
 | Name | Contribution |
 |---|---|
 | [Muhammad Sharjeel Ali](https://www.linkedin.com/in/sharjeel-ali07) | Model training and evaluation (smoke, vehicle, ANPR), Core API (Django REST Framework) |
-| [Teammate name](link) | [contribution] |
-| [Teammate name](link) | [contribution] |
+| [Noor ul Ain] | [contribution] |
+| [Eemaan Ahmed] | [contribution] |
 
-**Supervisor:** [name]
+**Supervisor:** [Abeeda Akram]
